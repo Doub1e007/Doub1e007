@@ -13,9 +13,4 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
 
-[![Doub1e007's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Doub1e007&theme=react)](https://github.com/Doub1e007)
-
-<div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Doub1e007&theme=xcode" />
-</div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doub1e007)](https://git.io/streak-stats)
