@@ -14,3 +14,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doub1e007)](https://git.io/streak-stats)
+
+<h1 align="center">
+	<a href="https://doub1e007.github.io/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27">
+	</a>
+</h1>
