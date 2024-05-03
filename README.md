@@ -1,8 +1,16 @@
-### Hi There is Doub1e 👋
+<a href="https://github.com/Doub1e007/computer-vision-in-action">
+    <img align="right" src="https://komarev.com/ghpvc/?username=Doub1e007&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+</a>
 
+### Hi There is <a href="https://Doub1e007.github.io/">Doub1e</a> 👋
 
-**Doub1e007/Doub1e007** is a ✨ _special_ ✨ repository
-
+<details><summary>(Click to expand) <em><b>I like to interact with different people so if you want to say</b> <a href="https://Doub1e007.github.io/" >"hello" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+ 
+<!--my introduction start-->
+1) 充满好奇
+2) 快速学习者
+---
+</details>
 
 
 [![Doub1e007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doub1e007)](https://github.com/anuraghazra/github-readme-stats)
