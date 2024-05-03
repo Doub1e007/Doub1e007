@@ -15,4 +15,7 @@
 
 [![Doub1e007's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Doub1e007&theme=react)](https://github.com/Doub1e007)
 
+<div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=Doub1e007&theme=xcode" />
+</div>
 
