@@ -25,17 +25,26 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Doub1e007&hide=issues&title_color=333&text_color=777" alt="luoye6's Stats" >
     -->
   </a>
+    <br>
+    <br>
+         <a href="https://git.io/streak-stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doub1e007" alt="GitHub Streak">
+        </a>
+
+<body>
+    <table align="center">
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge">
+                <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3 Badge">
+                 <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript" alt="JavaScript Badge">
+            </td>
+        </tr>
+    </table>
+</body>
+    
 </p>
- 
 
-
-[![Doub1e007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doub1e007)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Doub1e007)](https://git.io/streak-stats)
-
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-
-![](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
 
 
 
