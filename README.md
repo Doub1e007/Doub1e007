@@ -6,9 +6,9 @@
 
 <details><summary>(More) <em><b>I like to interact with different people so if you want to say</b> <a href="https://Doub1e007.github.io/" >"hello" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
-<!--my introduction start--> 
-1) 充满好奇
-2) 快速学习者
+<!--my introduction start-->   
+1) be thirst
+2) quick learner
 ---
 </details>
 
