@@ -12,33 +12,52 @@
 ---
 </details>
 
-✨ 计算机菜鸟，喜欢接触不同的技术。此帖记录自己的心得，欢迎大家讨论交流。有能力后希望把项目进行拓展和开源
-
+✨ A DevOps engineer committed to automated DevOps and cloud computing, with a concurrent interest in network security.
 
 <!--my introduction end -->
 
-<br>
- 
-<p align="center">
-  <a href="https://github.com/Doub1e007" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Doub1e007&title_color=333&text_color=777" alt="Doub1e007's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Doub1e007&hide=issues&title_color=333&text_color=777" alt="luoye6's Stats" >
-    -->
-  </a>
-    <br>
+### Code & Skills
 
-<body>
-    <table align="center">
-        <tr>
-            <td>
-                <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge">
-                <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3 Badge">
-                 <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript" alt="JavaScript Badge">
-            </td>
-        </tr>
-    </table>
-</body>
+![all-skills](https://skillicons.dev/icons?i=linux,py,bash,ansible,kubernetes,docker)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FCC624&message=Linux&logo=Linux)](https://www.linux.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=10B981&message=Rocky+Linux&logo=Rocky+Linux)](https://rockylinux.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=262577&message=CentOS&logo=CentOS)](https://rockylinux.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=0D597F&message=Alpine+Linux&logo=Alpine+Linux)](https://www.alpinelinux.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=A81D33&message=Debian&logo=Debian)](https://www.debian.org/)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=3670A0&message=Python&logo=Python)](https://www.python.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=121011&message=Shell+Scripts&logo=GNU-Bash)](https://www.gnu.org/software/bash/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=000000&message=Markdown&logo=Markdown)](https://www.markdownguide.org/)
+
+[![-](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=326CE5&message=Kubernetes&logo=Kubernetes)](https://kubernetes.io/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=2496ED&message=Docker&logo=Docker)](https://www.docker.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=575757&message=Containerd&logo=Containerd)](https://containerd.io/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=0F1689&message=Helm&logo=Helm)](https://helm.sh/)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FC6D26&message=GitLab+Runner&logo=GitLab)](https://docs.gitlab.com/runner/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=2088FF&message=GitHub+Actions&logo=GitHub+Actions)](https://github.com/features/actions)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=4479A1&message=MySQL&logo=MySQL)](https://www.mysql.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=DC382D&message=Redis&logo=Redis)](https://redis.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=231F20&message=Apache+Kafka&logo=Apache+Kafka)](https://kafka.apache.org/)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=009639&message=NGINX&logo=NGINX)](https://nginx.org/)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=007ACC&message=Visual+Studio+Code&logo=Visual+Studio+Code)](https://code.visualstudio.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=F37626&message=Jupyter&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/latest/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=019733&message=Vim&logo=Vim)](https://www.vim.org/)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FF6C37&message=Postman&logo=Postman)](https://www.postman.com/)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=F05032&message=Git&logo=Git)](https://git-scm.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=181717&message=GitHub&logo=GitHub)](https://github.com/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FC6D26&message=GitLab&logo=GitLab)](https://about.gitlab.com/)
+
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=0052CC&message=Jira&logo=Jira)](https://www.atlassian.com/software/jira/work-management)
+
     
 </p>
 
